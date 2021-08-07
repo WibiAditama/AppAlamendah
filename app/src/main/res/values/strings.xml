@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Alamendah</string>
+    <string name="welcome_to_desaalamendah">WELCOME TO DESA ALAMENDAH</string>
+    <string name="welcome_message">Rencanakan Liburan Mu Sekarang Dari Mana  Aja!</string>
+    <string name="next">Next</string>
+
+    <string name="profile_desa">Profile Desa</string>
+    <string name="gallery">Gallery</string>
+    <string name="pemesanan">Pemesanan</string>
+
+    <string name="desa_alam_endah">Desa Alamendah</string>
+    <string name="mau_wisata_apa">Mau Wisata Apa?</string>
+    <string name="rancabali_trip">Rancabali Trip</string>
+    <string name="camping">Camping</string>
+    <string name="land_rover">Land Rover</string>
+    <string name="paint_ball">Paint Ball</string>
+    <string name="out_bond">Out Bond</string>
+    <string name="jelajah_curug">Jelajah Curug</string>
+
+    <string name="popular">Popular</string>
+
+    <string name="coffe_trip">Coffee Trip</string>
+    <string name="deskripsi_img_coffe_trip">Coffe Trip</string>
+    <string name="harga_coffe_trip">Rp 205.000/pax</string>
+    <string name="deskripsi_coffe_trip">Rasakan kenikmatan kopi dari tempat yang indah</string>
+    <string name="wisata_paling_populer">Wisata Paling Popular</string>
+
+    <string name="ngagoes_ulin_kalembur">Ngagoes Ulin Kalembur</string>
+    <string name="deskripsi_img_ngagoes">Ngagoes Ulin Kalembur</string>
+    <string name="harga_ngagoes">Rp 250.000/pax</string>
+    <string name="deskripsi_ngagoes">Nikmati serunya berwisata keliling desa Alamendah menggunakan sepeda.
+        Anda akan menemukan banyak hal menarik</string>
+
+    <string name="alamendah_trip">Alamendah Trip</string>
+    <string name="deskripsi_img_alamendah_trip">Alamendah Trip</string>
+    <string name="harga_alamendah_trip">RP 165.000/pax</string>
+    <string name="deskripsi_alamendah_trip">Rasakan menjelajahi desa yang asri dan sejuk sembari
+        melakukan kegiatan yang menyenangkan</string>
+
+    <string name="selengkapnya">Selengkapnya ></string>
+    <string name="pesan">PESAN</string>
+
+    <string name="deskripsi_paket">Deskripsi</string>
+    <string name="detail_paket">Detail Paket</string>
+
+    <string name="tiket_objek_kopi">Tiket Objek Kopi</string>
+    <string name="nasi_liwet">Nasi Liwet</string>
+    <string name="pemandu_lokal">Pemandu Lokal</string>
+    <string name="snack_kopi">Snack Kopi</string>
+    <string name="angkutan_umum">Angkutan Umum</string>
+    <string name="kopi">Kopi</string>
+    <string name="pertunjukan_kesenian">Pertunjukan Kesenian</string>
+    <string name="air_mineral">Air Mineral</string>
+
+    <string name="sepeda">Sepeda</string>
+    <string name="wisata_kuliner">Wisata Kuliner</string>
+    <string name="snack">Snack</string>
+    <string name="wisata_pertanian">Wisata Pertanian</string>
+    <string name="wisata_peternakan">Wisata Peternakan</string>
+
+    <string name="makan_siang">Makan Siang</string>
+
+    <string name="pesan_sekarang">Pesan Sekarang</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="handphone">Handphone</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="jumlah_tiket">Jumlah Tiket</string>
+    <string name="metode_pembayaran">Pilih Metode Pembayaran</string>
+    <string name="rincian_harga">Rincian Harga</string>
+    <string name="paket_wisata">Paket Wisata</string>
+    <string name="kurangi_tiket">Kurangi Tiket</string>
+    <string name="tambah_tiket">Tambah Tiket</string>
+    <string name="rp">Rp</string>
+    <string name="pax">/pax</string>
+    <string name="pajak">Pajak</string>
+    <string name="harga_pajak">41000</string>
+    <string name="total">Total</string>
+    <string name="konfirmasi_pesanan">Konfirmasi Pesanan</string>
+
+    <string name="tentang_kami">Tentang Kami</string>
+    <string name="hai">Hai!</string>
+    <string name="selamat_datang">Selamat Datang di Desa Wisata Alamendah</string>
+    <string name="profile_tentang_kami">Desa Alamendah merupakan desa yang terletak di Jawa Barat,
+        Kecamatan Rancabali, Kabupaten Bandung. Desa wisata Alamendah ditetapkan sebagai desa wisata
+        dengan keputusan Bupati Bandung Nomor 556.42/kep.71-DISBUDPAR/2011 tertanggal 2 Februari 2011.</string>
+    <string name="kenapa_desa_wisata_alamendah">Kenapa Desa Wisata Alamendah?</string>
+    <string name="desa_yang_lengkap">Desa yang lengkap, wisatawan dapat menikmati alam sambil memanen
+        sayuran, memerah susu sapi.</string>
+    <string name="satu_satunya">Satu-satunya desa wisata yang menyuguhkan manisnya kopi yang di padukan
+        dengan nuansa perkebunan kopi Alamendah.</string>
+    <string name="banyak_prasarana">Banyak prasarana pendukung (tempat makan dan berbelanja).</string>
+</resources>

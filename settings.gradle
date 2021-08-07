@@ -1,0 +1,2 @@
+rootProject.name='Alamendah App'
+include ':app'
